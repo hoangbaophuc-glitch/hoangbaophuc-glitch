@@ -53,6 +53,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangbaophuc-glitch&show_icons=true&theme=default&hide_border=false" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangbaophuc-glitch&theme=default&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangbaophuc-glitch&theme=default" alt="GitHub Profile Details" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangbaophuc-glitch&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=hoangbaophuc-glitch&theme=default&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
