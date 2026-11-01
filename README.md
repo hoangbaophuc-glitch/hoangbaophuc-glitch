@@ -1,17 +1,30 @@
 <h1 align="center">Hi 👋, I'm Hoang Bao Phuc</h1>
-<h3 align="center">IoT Enthusiast & Web Developer</h3>
+<h3 align="center">IoT Enthusiast, Web Developer & AI Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hoangbaophuc-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/huu.phuoc.469919">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:hoangbaophuc2018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ## 👨‍💻 About Me
 - 🔭 I am passionate about building projects that bridge **Hardware (IoT)** and **Software Applications**.
+- 🧠 Currently expanding my knowledge in **AI, Machine Learning, and Deep Learning**.
 - 💡 Always eager to learn new technologies to solve real-world problems.
-- 📫 How to reach me: **[Add your Email]** or **[Add your LinkedIn]**
 
-## 💻 Software & Tools
+## 💻 Software, Tools & AI
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -40,6 +53,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangbaophuc-glitch&show_icons=true&theme=radium&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangbaophuc-glitch&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangbaophuc-glitch&show_icons=true&theme=default&hide_border=false" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangbaophuc-glitch&theme=default&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
